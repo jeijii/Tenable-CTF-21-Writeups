@@ -1,4 +1,4 @@
-# Parsey Mcparser - 50 (CODE)
+# Parsey Mcparser - 50 (Code)
 ```
 def ParseNamesByGroup(blob, group_name):
     #impliment code
